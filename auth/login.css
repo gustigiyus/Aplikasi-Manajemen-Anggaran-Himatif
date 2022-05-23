@@ -1,0 +1,11 @@
+.container {
+	width: 30%;
+	margin-top: 10%;
+	box-shadow: 5px 3px 20px;
+	padding: 40px;
+	background-color: white; 
+}
+
+button {
+	width: 49%;
+}
